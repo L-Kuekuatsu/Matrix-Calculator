@@ -1,0 +1,23 @@
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\bin\Debug\EDP_LabExercise_2.exe.config
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\bin\Debug\EDP_LabExercise_2.exe
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\bin\Debug\EDP_LabExercise_2.pdb
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.csproj.AssemblyReference.cache
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.Form1.resources
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.Properties.Resources.resources
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.csproj.GenerateResource.cache
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.exe
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.pdb
+C:\PROGRAMMING\C# Programming\EDP_LabExercise_2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.FormResult.resources
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\bin\Debug\EDP_LabExercise_2.exe.config
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\bin\Debug\EDP_LabExercise_2.exe
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\bin\Debug\EDP_LabExercise_2.pdb
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.csproj.AssemblyReference.cache
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.Form1.resources
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.FormResult.resources
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.Properties.Resources.resources
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.csproj.GenerateResource.cache
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.csproj.CoreCompileInputs.cache
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.exe
+C:\Users\hansl\OneDrive\Documents\Project\CSci 151 - Hans Legaspi - EDP - Lab Exercise #2\EDP_LabExercise_2\obj\Debug\EDP_LabExercise_2.pdb

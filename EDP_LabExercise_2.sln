@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDP_LabExercise_2", "EDP_LabExercise_2\EDP_LabExercise_2.csproj", "{5D753C6D-EF0B-4794-BA5D-D5676B64F630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E31780A5-DE48-49C0-B776-1BAD37CD0153}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D753C6D-EF0B-4794-BA5D-D5676B64F630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D753C6D-EF0B-4794-BA5D-D5676B64F630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D753C6D-EF0B-4794-BA5D-D5676B64F630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D753C6D-EF0B-4794-BA5D-D5676B64F630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E03700E2-CC9B-434F-A9D3-2C31BCF80D9F}
+	EndGlobalSection
+EndGlobal
